@@ -1,0 +1,122 @@
+git (VCS = VERSION CONTROL SYSTEM)
+======================================
+S/W APPLICATION -------->BEFORE INSTALLING ------->S/W FILES ..........>SEUP.EXE ...>
+MERGED INSIDE THE FOLDER =PACAKAGE 
+PC--->O.S .......> FILES
+
+Package management is the process of handling software packages, including their dependencies, 
+installation, and removal-------->TO INSTAL ANY S/W --->SUPPORTED FILES SHOULD BE PRESEN
+====>PACAKAGE MGMNT.
+EX=: MICROSOFT OFFICE PACKAGE 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+What does a package manager do?
+Finds packages: Locates packages in a software repository or app store 
+Installs packages: Downloads and installs packages on a user's computer 
+Updates packages: Upgrades existing software to newer versions 
+Uninstalls packages: Removes software that is no longer needed 
+Manages dependencies: Ensures that packages are installed with all the packages they require 
+Verifies package integrity: Checks checksums and digital certificates to ensure the package is authentic 
+Groups packages: Organizes packages by function to reduce confusion 
+Why is package management important? 
+Package management helps streamline software development and delivery processes
+It allows teams to work together more effectively and release software faster
+It helps improve software in production on a regular basis
+Examples of package managers 
+============================================================
+SOME OF THE PACKAGE MANAGER tool
+exAMPLES: 
+>yum ------------------------------>LINUX TO EXRACT FROM RPM 
+>rpm----------------->LINUX
+>apt-------->UBUNTU
+======================================================================
+EX:S/W APPLICAION --------->SOURCE CODE ------>DEV1-->1.1 ,2---->1.4 ,3--->1.7 ,4 ---N
+
+SOURCE CODES HAS O BE MERGED -------->DPLOY APPLICAION S/W A FASTER RATE
+
+:GIT ------->OPEN SOURCE --------->FREE ......>VCS
+VERSION CONTROL SYSTEM (TRACK OF THE CAHNGES DONE FOR THE SOURCE CODE )
+----------------------------------------------------->
+VI TOOL (VI EDITOR )---->
+------------------------------
+VERSION CONTROLING :
+Version control, also known as source code management, is a system that tracks changes to source code over time. It helps developers collaborate 
+efficiently and maintain code integrity. 
+
+COMBINING THE CODES DEVLOPED BY MULTIPLE DEVELOPERS =VCS 
+ VCS =GIT
+Git --------->LINUS ORVALDS ---->2005
+A free, open-source DVCS that's designed to handle projects of all sizes.
+ It's known for its speed and workflow compatibility
+===================================================
+TYPES OF VCS :
+-------------
+
+>CENTRALISED (CVCS)
+>DISTRIBUTED (DVCS)----------->machine (server ) --------->local pc (dv=devloper)
+>LOCAL (LVCS)---->PC(USER DATA ------->FILES(PROJECT-->EDIT HE FILES INSIDE THE FOLDER =PROJECT ====LVCS---->PC
+OWNER OF THE PC (DATa delted /shard ) 
+=================================================================
+git bash is an git command line interface to inerac with git tool 
+Git Bash is an application 
+for Microsoft Windows environments which provides an emulation layer for a Git command 
+line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal 
+application used to interface with an operating system through written commands.
+-------------------------------------------------------------
+>git instaalled >configure git with your personal credentials (e,mail , user name )
+
+$git config --global user.name"bhavya"
+
+$git config --global user.email"bhavyahassan91@gmail.com"
+
+$git config --list 
+=========================================================================
+There are many types of files, including document, image, audio, and executable files. 
+Document files
+Portable document format (PDF): A common format used in professional settings 
+Word document (DOC and DOCX): A document file format 
+OpenDocument text (ODT): A document file format 
+Hypertext markup language (HTML and HTM): A markup language that controls how data
+ appears to users in web browsers 
+txt:text file ----->word 
+========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WOREK ON VI TOOL 
+-------------------
+

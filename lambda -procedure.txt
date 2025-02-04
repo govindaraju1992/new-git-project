@@ -1,0 +1,27 @@
+stop and start ec2 server by lambda function:
+----------------------------------------------------
+1.create policies ------->IAM .....>ues JSON FORMAT policy 
+
+2.create IAM role ....>by chossing an aws lambdaservice ..>
+attach the policy which is created newly .
+
+3.navigate the console for aws lambda ,,,,,>create function >
+author from scratch .........>change defaultexecution roles>
+ues anexistin role ...> paste the code (to stop the ec2 service )
+------->deploy 
+
+4.add the trigger......>triger configuration ..>aws event bridge(cloud watch event)
+------>creeat new rule ..> stop ec2 server..> ruel type ...> sheduled description ..>
+select the cron shedule to run the trigger .......>ADD trigger
+
+5.test the trigger 
+
+6.ec2 servers should stop automatically ........> 
+
+7.services ----> search ....> aws event bridge .,...> open rules(left side).....>
+we will get the UTC timezone which is added to trigger the function on time basis ..>
+........>we can change to local time as well .
+
+8.ec2 servers should stop automatically on the specified time wich we have mentioned .
+
+9.cloud trial ----->event history it should show the stoped server log . 
