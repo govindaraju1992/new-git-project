@@ -1,0 +1,30 @@
+1.How Do You Set Up a Basic Ansible Playbook to Install a Package On a Group Of Servers?
+
+2. What Command Will You Use To Run An Ansible Playbook With a Specific Inventory File?
+
+3.What Is The Ad-hoc Command In Ansible, And When Is It Typically Used?
+
+4.List Ansible’s advantages
+
+5.What are CD and CI, and what is Ansible’s relationship with them?
+
+6.Describe how Ansible works.
+
+7.Explain what a “playbook” is.
+
+8. How do you set up Ansible?
+
+9.Explain the difference between a playbook and a play.
+
+10. What exactly is a configuration management tool?
+
+11.What is a YAML file and how do we use it in Ansible?
+
+12.What is the ad-hoc command in Ansible?
+
+13. What are Ansible Modules?
+
+14. What are Ansible tasks?
+
+15.can u create a Task at node server machines , where user is insalled with git and cloned with b
+remote repository , with gi configuration ?
